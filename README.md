@@ -1,23 +1,2 @@
-## Simple Voice Chat - A working voice chat in Minecraft!
-
-### Features
-    Push to talk
-    Voice activation
-    Proximity voice chat
-    Password protected group chats
-    Opus codec
-    RNNoise recurrent neural network noise suppression
-    OpenAL audio
-    Cross compatibility between Fabric, NeoForge, Forge, Quilt, Bukkit, Spigot and Paper
-    Support for Velocity, BungeeCord and Waterfall
-    Compatibility with ModMenu (Use ClothConfig for a better configuration UI)
-    Configurable push to talk key
-    Microphone test playback
-    Configurable voice distance
-    Whispering
-    Individual player volume adjustment
-    Microphone amplification
-    3D sound
-    AES encryption
-    Audio recording with separate audio tracks
-    A powerful API
+The Name Pain mod is an interesting and useful add-on for Minecraft that will change the nickname color for the player or pet depending on the health level.
+If your health is full, your name will be white, and if your health is low, your nickname will be bright red.
